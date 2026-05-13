@@ -1,0 +1,15 @@
+{
+  "name": "My IPTV",
+  "groups": [
+    {
+      "name": "TV",
+      "channels": [
+        {
+          "name": "VTV1",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/VTV1_logo_2010.svg"
+        }
+      ]
+    }
+  ]
+}
