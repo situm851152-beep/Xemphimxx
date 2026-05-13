@@ -1,0 +1,9 @@
+{
+  "id": "phimapi",
+  "name": "PhimAPI",
+  "author": "ChatGPT",
+  "version": "1.0.0",
+  "type": "movie",
+  "icon": "https://phimapi.com/favicon.ico",
+  "script": "https://raw.githubusercontent.com/USERNAME/REPO/main/phimapi.js"
+}
